@@ -1,2 +1,2 @@
 # prank
-tis is prank for your fends
+tis is prank for your friends
